@@ -1,0 +1,9 @@
+{
+  "name": "ericasaywhat",
+  "version": "1.0.0",
+  "description": "personal website and portfolio",
+  "main": "index.js",
+  "repository": "git@github.com:ericasaywhat/webbyton.git",
+  "author": "Erica Lee @ericasaywhat",
+  "license": "MIT"
+}
