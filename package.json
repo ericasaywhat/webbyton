@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "git@github.com:ericasaywhat/webbyton.git",
   "author": "Erica Lee @ericasaywhat",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "next-routes": "^1.4.2"
+  }
 }
