@@ -1,2 +1,4 @@
 # not sure why node_modules is popping up; sticking here for now
 /node_modules
+
+/.next
