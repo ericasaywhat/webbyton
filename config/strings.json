@@ -1,6 +1,6 @@
 {
-  "object": {
-    "title": "This is the title",
-    "desc": "This is the description
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/ericasaywhat",
+    "desc": "This is the description"
   }
 }
