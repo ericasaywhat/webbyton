@@ -1,6 +1,90 @@
 {
-  "links": {
-    "linkedin": "https://www.linkedin.com/in/ericasaywhat",
-    "desc": "This is the description"
+  "landing": {
+    "title": "Erica J. Lee",
+    "desc": "I am an Olin student, a budding software developer, pursuing a degree in engineering with a concentration in computing. I have been exploring Android mobile apps, databases, data structures, as well as intuitive design. My goal is to build better experiences for people and meet their needs. I believe that all engineering starts and ends with people.",
+    "portfolio": {
+      "text": "[Go to Portfolio]",
+      "url": "/portfolio"
+    }
+  },
+  "connect": {
+    "linkedin": {
+      "link": "https://www.linkedin.com/in/ericasaywhat",
+      "label": "LinkedIn"
+    },
+    "github": {
+      "link": "https://github.com/ericasaywhat/",
+      "label": "GitHub"
+    },
+    "portfolioBox": {
+      "link": "https://ericasaywhat.portfoliobox.net/",
+      "label": "Graphic Design Portfolio"
+    }
+  },
+  "topBar":{
+    "home": {
+      "name": "Home",
+      "url": "/"
+    },
+    "portfolio": {
+      "name": "Portfolio",
+      "url": "/portfolio"
+    },
+    "blog": {
+      "name": "Blog",
+      "url": "/"
+    }
+  },
+  "portfolio": {
+    "test1": {
+      "img": "../static/classadoo-logo.png",
+      "title": "Test1 Title",
+      "desc": "Description in test so long very long. This is a good one yes"
+    },
+    "test2": {
+      "img": "../static/classadoo-logo.png",
+      "title": "Test2 Title",
+      "desc": "Description in test so long very long. This is a good one yes"
+    },
+    "test3": {
+      "img": "../static/classadoo-logo.png",
+      "title": "Test3 Title",
+      "desc": "Description in test so long very long. This is a good one yes"
+    },
+    "test4": {
+      "img": "../static/classadoo-logo.png",
+      "title": "Test4 Title",
+      "desc": "Description in test so long very long. This is a good one yes"
+    },
+    "test5": {
+      "img": "../static/classadoo-logo.png",
+      "title": "Test1 Title",
+      "desc": "Description in test so long very long. This is a good one yes"
+    },
+    "test6": {
+      "img": "../static/classadoo-logo.png",
+      "title": "Test2 Title",
+      "desc": "Description in test so long very long. This is a good one yes"
+    },
+    "test7": {
+      "img": "../static/classadoo-logo.png",
+      "title": "Test3 Title",
+      "desc": "Description in test so long very long. This is a good one yes"
+    },
+    "test8": {
+      "img": "../static/classadoo-logo.png",
+      "title": "Test1 Title",
+      "desc": "Description in test so long very long. This is a good one yes"
+    },
+    "test9": {
+      "img": "../static/classadoo-logo.png",
+      "title": "Test2 Title",
+      "desc": "Description in test so long very long. This is a good one yes"
+    },
+    "test10": {
+      "img": "../static/classadoo-logo.png",
+      "title": "Test3 Title",
+      "desc": "Description in test so long very long. This is a good one yes"
+    }
   }
 }
