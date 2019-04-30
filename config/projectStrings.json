@@ -1,0 +1,52 @@
+{
+  "portfolio": {
+    "SCOPE": {
+      "img": "../static/scope.png",
+      "title": "Senior Capstone Project in Engineering",
+      "desc": "The Senior Capstone Program in Engineering (SCOPE) is a corporate consulting project. Over the course of a full academic year, seniors at Olin work in multi-disciplinary teams to provide innovative solutions to a company’s real-world problems. I was a Product Owner and software developer of the Toyota SCOPE team that focused on exploring personal mobility.",
+      "url": "http://www.olin.edu/collaborate/scope/projects/2018_19/Toyota_Motor_NA"
+    },
+    "LoanSnap Inc.": {
+      "img": "../static/loansnap.png",
+      "title": "LoanSnap Inc.",
+      "desc": "LoanSnap (www.goloansnap.com) is the first to use artificial intelligence to help users choose smart loans. I was an Engineering Intern and worked closely with Product Management team as well as other software engineers to to develop new features and debug existing features of the LoanSnap web and mobile app using ReactJS and React-Native",
+      "url": "https://www.goloansnap.com/"
+    },
+    "Parlinet": {
+      "img": "../static/parlinet.png",
+      "title": "Parlinet",
+      "desc": "Parlinet was an online platform that sought to separate political conversation from passive social media scrolling. Citizens and their local officials can raise issues, ask questions, and make suggestions regarding their communities. I was an Engineering Intern and worked on a team coding the Parlinet web app from scratch using NodeJS and React with Express framework and MongoDB. I designed and implemented features of the Parlinet web app.",
+      "url": "https://www.linkedin.com/company/parliament"
+    },
+    "NybbleRoom: Online Chat Room": {
+      "img": "../static/nybbleroom.png",
+      "title": "NybbleRoom: Online Chat Room",
+      "desc": "NybbleRoom was a project in which I worked on a team of 3 to develop an online chatroom using TelNet.",
+      "url": "https://github.com/ericasaywhat/SoftSysNybbleRoom"
+    },
+    "Smooth Criminals": {
+      "img": "../static/smoothcriminals.png",
+      "title": "Smooth Criminals",
+      "desc": "Smooth Criminals was a study in agent-based modelling of street crime built off a report \"Simulation for theory testing and experimentation\" by Elizabeth Groff. ",
+      "url": "https://github.com/ericasaywhat/SmoothCriminals"
+    },
+    "Automated Marionette": {
+      "img": "../static/realboiz.jpg",
+      "title": "Automated Marionette",
+      "desc": "Automated Marionette was a mechanical and controls project for a class called Principles of Engineering at Olin College. I worked on a team of 6 to build an automated marionette. I was responsible for the wiring and controls (Arudino) of the project.",
+      "url": "http://poe.olin.edu/2016/Marionette/"
+    },
+    "Beakon": {
+      "img": "../static/beakon.png",
+      "title": "Beakon",
+      "desc": "I worked on a team of 4 to develop Beakon, an Android app that helps connect people to small scale crowd-sourced social movements, like #NoDAPL or marches and protests in cities.",
+      "url": "https://github.com/ericasaywhat/Beakon"
+    },
+    "DodgyGame": {
+      "img": "../static/dodgygame.png",
+      "title": "DodgyGame",
+      "desc": "DodgyGame was a game developed using Pygame and OpenCV in which a player must dodge falling ostriches. A player must control an avatar using a webcam and facial recognition where the horizontal position of the avatar on the screen corresponds to that of the player in the webcam view. ",
+      "url": "https://github.com/ericasaywhat/InteractiveProgramming"
+    }
+  }
+}

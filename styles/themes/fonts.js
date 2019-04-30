@@ -5,7 +5,7 @@ const fonts = {
     fontFamily: 'Roboto',
     fontSize: '50px',
     color: colors.brand,
-    fontWeight: 'bold'
+    // fontWeight: 'bold'
   },
   link: {
     fontFamily: 'Roboto',
@@ -14,14 +14,21 @@ const fonts = {
   heading: {
     fontFamily: 'Roboto',
     fontSize: '50px',
-    color: colors.grey,
+    color: colors.light,
     fontWeight: 'bold'
   },
   connect: {
     fontFamily: 'Roboto',
     fontSize: '16px',
-    color: colors.grey,
+    color: colors.light,
     textDecoration: 'none',
+  },
+  portfolio: {
+    cardContent: {
+      fontFamily: 'Roboto',
+      fontSize: '16px',
+      color: colors.light,
+    }
   }
 }
 

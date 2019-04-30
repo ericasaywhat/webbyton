@@ -34,57 +34,5 @@
       "name": "Blog",
       "url": "/"
     }
-  },
-  "portfolio": {
-    "test1": {
-      "img": "../static/classadoo-logo.png",
-      "title": "Test1 Title",
-      "desc": "Description in test so long very long. This is a good one yes"
-    },
-    "test2": {
-      "img": "../static/classadoo-logo.png",
-      "title": "Test2 Title",
-      "desc": "Description in test so long very long. This is a good one yes"
-    },
-    "test3": {
-      "img": "../static/classadoo-logo.png",
-      "title": "Test3 Title",
-      "desc": "Description in test so long very long. This is a good one yes"
-    },
-    "test4": {
-      "img": "../static/classadoo-logo.png",
-      "title": "Test4 Title",
-      "desc": "Description in test so long very long. This is a good one yes"
-    },
-    "test5": {
-      "img": "../static/classadoo-logo.png",
-      "title": "Test1 Title",
-      "desc": "Description in test so long very long. This is a good one yes"
-    },
-    "test6": {
-      "img": "../static/classadoo-logo.png",
-      "title": "Test2 Title",
-      "desc": "Description in test so long very long. This is a good one yes"
-    },
-    "test7": {
-      "img": "../static/classadoo-logo.png",
-      "title": "Test3 Title",
-      "desc": "Description in test so long very long. This is a good one yes"
-    },
-    "test8": {
-      "img": "../static/classadoo-logo.png",
-      "title": "Test1 Title",
-      "desc": "Description in test so long very long. This is a good one yes"
-    },
-    "test9": {
-      "img": "../static/classadoo-logo.png",
-      "title": "Test2 Title",
-      "desc": "Description in test so long very long. This is a good one yes"
-    },
-    "test10": {
-      "img": "../static/classadoo-logo.png",
-      "title": "Test3 Title",
-      "desc": "Description in test so long very long. This is a good one yes"
-    }
   }
 }

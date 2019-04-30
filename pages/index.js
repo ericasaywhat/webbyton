@@ -3,6 +3,7 @@ import pageStyles from '../styles/pageStyles'
 import colors from '../styles/themes/colors'
 import Connect from '../components/Connect'
 import TopBar from '../components/TopBar'
+import Link from '../components/Link'
 
 class Landing extends React.Component {
   render() {
@@ -17,7 +18,10 @@ class Landing extends React.Component {
             {strings.landing.desc}
           </div>
           <div style={pageStyles.portfolioLink}>
-            <a href={strings.landing.portfolio.url} style={{ textDecoration: 'none', color: colors.lightAccent }}>{strings.landing.portfolio.text}</a>
+            <Link
+              name={strings.landing.portfolio.text}
+              url={strings.landing.portfolio.url}
+            />
           </div>
           <Connect />
 
